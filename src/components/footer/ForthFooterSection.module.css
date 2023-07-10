@@ -1,0 +1,32 @@
+.container {
+  width: 20%;
+}
+
+.container h3 {
+  color: #9c5bf5;
+}
+
+.form {
+  display: flex;
+  gap: 20px;
+}
+
+.form button {
+    border-radius: 8px;
+    background: #7C58D3;
+    border: 1px solid #cdccce;
+}
+
+.form input {
+  border-radius: 8px;
+  border: 1px solid #cdccce;
+  background: #fff;
+}
+
+.icons {
+  display: flex;
+  width: 16px;
+  height: 16px;
+  gap: 40px;
+  margin-top: 30px;
+}

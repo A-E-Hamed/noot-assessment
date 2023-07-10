@@ -1,0 +1,42 @@
+.mainContainer {
+  position: relative;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  width: 80%;
+  position: relative;
+  z-index: 0;
+  left: 140px;
+}
+
+.container img {
+  width: 100%;
+  margin-top: 30px;
+  height: auto;
+}
+
+.bannerElements {
+  display: flex;
+  position: absolute;
+  top: 50%;
+  justify-content: center;
+  align-items: center;
+  z-index: 1;
+  gap: 100px;
+}
+
+.bannerElements img{
+    width: 56px;
+    height: 56px;
+}
+
+.element{
+    gap: 10px;
+    display: flex;
+}
+
+.element img{
+    margin: 0;
+}

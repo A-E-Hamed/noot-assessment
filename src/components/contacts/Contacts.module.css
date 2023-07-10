@@ -1,0 +1,21 @@
+.container{
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.heading{
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    margin-bottom: 50px;
+}
+
+.heading p{
+    color: #7C58D3;
+}
+
+.posts{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}

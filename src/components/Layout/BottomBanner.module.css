@@ -1,0 +1,25 @@
+.container {
+  width: 80%;
+  margin: 0 auto;
+  position: relative;
+}
+
+.container img {
+  width: 100%;
+}
+
+.yellow {
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  left: -100px;
+  top: 120px;
+}
+
+.gray {
+  width: 250px;
+  height: 250px;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}

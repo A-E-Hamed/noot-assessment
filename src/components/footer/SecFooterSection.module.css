@@ -1,0 +1,12 @@
+.container{
+    width: 20%;
+}
+
+.container h3{
+    color: #9C5BF5;
+}
+
+.content{
+    display: flex;
+    gap: 60px;
+}

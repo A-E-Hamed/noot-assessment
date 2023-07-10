@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+}
+
+.container ul{
+    display: flex;
+    list-style-type: none;
+    width: 70%;
+    justify-content: space-between;
+}
+
+.container li{
+    font-family: 'Nunito', sans-serif;
+}
+
+.navLinks{
+    display: flex;
+    width: 100%;
+    padding-left: 30px;
+}

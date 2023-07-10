@@ -1,0 +1,34 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 42px;
+  width: 80%;
+}
+
+.container img {
+  height: 15px;
+}
+
+.leftSection {
+  width: 110px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.rightSection {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.infoElement {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  height: 21px;
+}
+
+.infoElement p{
+  font-family: 'Nunito', sans-serif;
+}
